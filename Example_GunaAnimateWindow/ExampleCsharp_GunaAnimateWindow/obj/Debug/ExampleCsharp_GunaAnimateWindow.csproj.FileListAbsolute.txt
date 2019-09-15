@@ -1,0 +1,10 @@
+C:\Users\Ilham-PC\Source\Repos\tempDesign\Example_GunaAnimateWindow\ExampleCsharp_GunaAnimateWindow\bin\Debug\ExampleCsharp_GunaAnimateWindow.exe
+C:\Users\Ilham-PC\Source\Repos\tempDesign\Example_GunaAnimateWindow\ExampleCsharp_GunaAnimateWindow\bin\Debug\ExampleCsharp_GunaAnimateWindow.pdb
+C:\Users\Ilham-PC\Source\Repos\tempDesign\Example_GunaAnimateWindow\ExampleCsharp_GunaAnimateWindow\bin\Debug\Guna.UI.dll
+C:\Users\Ilham-PC\Source\Repos\tempDesign\Example_GunaAnimateWindow\ExampleCsharp_GunaAnimateWindow\obj\Debug\ExampleCsharp_GunaAnimateWindow.csprojResolveAssemblyReference.cache
+C:\Users\Ilham-PC\Source\Repos\tempDesign\Example_GunaAnimateWindow\ExampleCsharp_GunaAnimateWindow\obj\Debug\ExampleCsharp_GunaAnimateWindow.Form1.resources
+C:\Users\Ilham-PC\Source\Repos\tempDesign\Example_GunaAnimateWindow\ExampleCsharp_GunaAnimateWindow\obj\Debug\ExampleCsharp_GunaAnimateWindow.Form2.resources
+C:\Users\Ilham-PC\Source\Repos\tempDesign\Example_GunaAnimateWindow\ExampleCsharp_GunaAnimateWindow\obj\Debug\ExampleCsharp_GunaAnimateWindow.Properties.Resources.resources
+C:\Users\Ilham-PC\Source\Repos\tempDesign\Example_GunaAnimateWindow\ExampleCsharp_GunaAnimateWindow\obj\Debug\ExampleCsharp_GunaAnimateWindow.csproj.GenerateResource.Cache
+C:\Users\Ilham-PC\Source\Repos\tempDesign\Example_GunaAnimateWindow\ExampleCsharp_GunaAnimateWindow\obj\Debug\ExampleCsharp_GunaAnimateWindow.exe
+C:\Users\Ilham-PC\Source\Repos\tempDesign\Example_GunaAnimateWindow\ExampleCsharp_GunaAnimateWindow\obj\Debug\ExampleCsharp_GunaAnimateWindow.pdb

@@ -1,0 +1,15 @@
+C:\Users\Ilham-PC\Source\Repos\tempDesign\Example_GunaAnimateWindow\Example_GunaAnimateWindow\bin\Debug\Example_GunaAnimateWindow.exe
+C:\Users\Ilham-PC\Source\Repos\tempDesign\Example_GunaAnimateWindow\Example_GunaAnimateWindow\bin\Debug\Example_GunaAnimateWindow.pdb
+C:\Users\Ilham-PC\Source\Repos\tempDesign\Example_GunaAnimateWindow\Example_GunaAnimateWindow\bin\Debug\Example_GunaAnimateWindow.xml
+C:\Users\Ilham-PC\Source\Repos\tempDesign\Example_GunaAnimateWindow\Example_GunaAnimateWindow\bin\Debug\Guna.UI.dll
+C:\Users\Ilham-PC\Source\Repos\tempDesign\Example_GunaAnimateWindow\Example_GunaAnimateWindow\obj\Debug\Example_GunaAnimateWindow.vbprojResolveAssemblyReference.cache
+C:\Users\Ilham-PC\Source\Repos\tempDesign\Example_GunaAnimateWindow\Example_GunaAnimateWindow\obj\Debug\Example_GunaAnimateWindow.Form1.resources
+C:\Users\Ilham-PC\Source\Repos\tempDesign\Example_GunaAnimateWindow\Example_GunaAnimateWindow\obj\Debug\Example_GunaAnimateWindow.Form2.resources
+C:\Users\Ilham-PC\Source\Repos\tempDesign\Example_GunaAnimateWindow\Example_GunaAnimateWindow\obj\Debug\Example_GunaAnimateWindow.Resources.resources
+C:\Users\Ilham-PC\Source\Repos\tempDesign\Example_GunaAnimateWindow\Example_GunaAnimateWindow\obj\Debug\Example_GunaAnimateWindow.vbproj.GenerateResource.Cache
+C:\Users\Ilham-PC\Source\Repos\tempDesign\Example_GunaAnimateWindow\Example_GunaAnimateWindow\obj\Debug\Example_GunaAnimateWindow.exe
+C:\Users\Ilham-PC\Source\Repos\tempDesign\Example_GunaAnimateWindow\Example_GunaAnimateWindow\obj\Debug\Example_GunaAnimateWindow.xml
+C:\Users\Ilham-PC\Source\Repos\tempDesign\Example_GunaAnimateWindow\Example_GunaAnimateWindow\obj\Debug\Example_GunaAnimateWindow.pdb
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Example-GunaAnimateWindow\Example_GunaAnimateWindow\Example_GunaAnimateWindow\obj\Debug\Example_GunaAnimateWindow.exe
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Example-GunaAnimateWindow\Example_GunaAnimateWindow\Example_GunaAnimateWindow\obj\Debug\Example_GunaAnimateWindow.xml
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Example-GunaAnimateWindow\Example_GunaAnimateWindow\Example_GunaAnimateWindow\obj\Debug\Example_GunaAnimateWindow.pdb
